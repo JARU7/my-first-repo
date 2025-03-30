@@ -1,5 +1,6 @@
 # my-first-repo
+Hi, I'm @jaru7
 A repository for learning for learning GitHub 
-I'm a Computer Science student learning programing and cybersecurity. 
-I some of my interest are play soccer and snowboard. 
-My email address is alexander98ayal@gmail.com 
+I'm a student learning Java. 
+I'm looking collaborate and create new projects in Java or python.  
+How to reach me alexander98ayal@gmail.com 
